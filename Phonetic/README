@@ -1,0 +1,12 @@
+java version "1.8.0"
+Java(TM) SE Runtime Environment (build 1.8.0-b132)
+-------------------------------------------------------------------------------------------------------
+
+The following is a eclipse project, please import and run using eclipse. 
+
+or can be viewed: https://github.com/MoeBadr/Phonetic
+
+---
+
+Please also find a set of unit tests for the algorithm, the test units can located in src / tests package.
+
